@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: powderblue;
+}
+
+h1 {
+    color:blue;
+}
+
+.nama {
+    font-size:24px;
+    color: black;
+}
+
+p {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.fd {
+    display: inline-flex;
+    background-color: rgb(143, 78, 28);
+    padding: 10px;
+}
+
+.cl {
+    display: inline-grid;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgba(148, 0, 0, 0.5);
+    
+}
